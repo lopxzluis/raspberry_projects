@@ -1,4 +1,4 @@
-
+#PROBANDO EL IDE THONNY
 from machine import *
 import utime
 from grove_lcd_i2c import Grove_LCD_I2C
