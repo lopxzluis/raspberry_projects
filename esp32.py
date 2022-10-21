@@ -1,6 +1,6 @@
 from machine import Pin
 import time
-led = Pin(13, Pin.OUT)
+led = Pin(19, Pin.OUT)
 led.value(1)
 time.sleep(2)
 led.value(0)
