@@ -6,6 +6,12 @@ time.sleep(2)
 led.value(0)
 
 #este es un cambio
+#este es un cambio
+#este es un cambio
+#este es un cambio
+#este es un cambio
+#este es un cambio
+
 while True:
     led.on()
     print("prendido")
